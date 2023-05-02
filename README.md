@@ -2,7 +2,7 @@
 
 <!--
 **Mahsa-Arabzadeh/Mahsa-Arabzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Mahsa-Arabzadeh" alt="Mahsa-Arabzadeh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="Mahsa-Arabzadeh" alt="<MaHsa/>" /></a> </p>
 
 Here are some ideas to get you started:
 
