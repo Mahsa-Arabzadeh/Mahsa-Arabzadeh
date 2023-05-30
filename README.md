@@ -8,7 +8,6 @@
 - 📫 How to reach me: arabzadehmah@gmail.com
 - ---
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
-https://linktr.ee/Mahi.K
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
