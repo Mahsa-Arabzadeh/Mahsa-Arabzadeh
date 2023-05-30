@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahsa </h1>
+<h1 align="center">Hi &#128151, I'm Mahsa </h1>
 <h3 align="center">A Programmer Who Has Is Born!</h3>
 
 - 🌱 I’m currently learning **JavaScript**
