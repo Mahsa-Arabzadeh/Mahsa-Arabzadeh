@@ -9,7 +9,6 @@
 - ---
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
 
-![Image of Yaktocat](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahsa-Arabzadeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Socials:
