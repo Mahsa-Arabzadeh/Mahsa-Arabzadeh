@@ -9,8 +9,6 @@
 - ---
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mahsa-Arabzadeh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mahsaxtz#2683) 
 
