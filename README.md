@@ -5,5 +5,5 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh
 
-- 📫 How to reach me: arabzadehmah@gmail.com
+- 📫 How to reach me: arabzadehmah@gmail.com <br>
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
