@@ -1,4 +1,4 @@
-<img  src="https://media.moddb.com/images/games/1/77/76430/auto/Welcome.gif">
+<img align="center"  src="https://media.moddb.com/images/games/1/77/76430/auto/Welcome.gif">
 <h1 align="center">Hi &#128151, I'm Mahsa </h1>
 <h3 align="center">A Programmer Who Has Is Born!</h3>
 
