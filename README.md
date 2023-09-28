@@ -1,7 +1,5 @@
 <img src="images/svg/header_en.svg"></img>
-<h3 align="center">I'm a coding aficionado, always hungry for new challenges in the digital realm
-<img  src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif">
-</h3>
+<h3>I'm a coding aficionado, always hungry for new challenges in the digital realm</h3>
 
 
 - 🌱 I’m currently learning **JavaScript**
