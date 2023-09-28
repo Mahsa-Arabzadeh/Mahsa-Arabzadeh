@@ -10,3 +10,7 @@
 - 📫 How to reach me: arabzadehmah@gmail.com <br><br>
 
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
