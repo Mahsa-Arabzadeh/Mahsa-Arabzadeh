@@ -183,7 +183,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
-      BRUNO TACCA
+      Mahsa Arabzadeh
   </textPath>
 </text>
 
@@ -201,18 +201,18 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Leadership, Software Architecture, Development, Science &amp; Technology.
+      Web designer, Programmer
   </textPath>
 </text>
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Hi there!
+      Hey,
 </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
       fill="#AAA" font-weight="bold"> 
-      How are you doing?
+      delighted to meet you!
 </text>
 
 
