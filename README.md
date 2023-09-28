@@ -5,7 +5,7 @@
 
  - 🌱 I’m currently learning **JavaScript** 
 
- - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <img style="width: 50px,height: 50px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
+ - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <img style="width: 50px;height: 50px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
 
  - 📫 How to reach me: arabzadehmah@gmail.com <br>
 ---
