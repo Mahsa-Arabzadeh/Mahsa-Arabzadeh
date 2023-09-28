@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
 
-<table style="width:600px;align:center;">
+<table style="width:700px;align:center;">
   <tr>
     <th>
        -🌱 I’m currently learning  **JavaScript**
