@@ -6,7 +6,7 @@
 <table style="width:800px;align:center;">
   <tr>
     <th>
-       <h3>  -🌱 I’m currently learning  **JavaScript** </h3>
+       <h3 style="text-align: left;">  -🌱 I’m currently learning  **JavaScript** </h3>
     </th>
     <th>
       <h3 align="left">Connect with me:</h3>
