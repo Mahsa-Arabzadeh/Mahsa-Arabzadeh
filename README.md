@@ -3,10 +3,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
 
-<table style="width:700px;align:center;">
+<table style="width:800px;align:center;">
   <tr>
     <th>
-       -🌱 I’m currently learning  **JavaScript**
+       <h3>  -🌱 I’m currently learning  **JavaScript** </h3>
     </th>
     <th>
       <h3 align="left">Connect with me:</h3>
