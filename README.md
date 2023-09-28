@@ -1,4 +1,4 @@
-<img  src="[https://www.moddb.com/games/tiny-planet-protectors](https://media.moddb.com/images/games/1/77/76430/auto/Welcome.gif)">
+<img  src="https://media.moddb.com/images/games/1/77/76430/auto/Welcome.gif">
 <h1 align="center">Hi &#128151, I'm Mahsa </h1>
 <h3 align="center">A Programmer Who Has Is Born!</h3>
 
