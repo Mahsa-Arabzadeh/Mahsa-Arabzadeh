@@ -6,10 +6,10 @@
 <table>
   <tr>
     <th>
-       -🌱 I’m currently learning
+       -🌱 I’m currently learning  **JavaScript**
     </th>
     <th>
-      **JavaScript**
+     <img align="right" style="width: 100px;height: 100px;bottom:60px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
     </th>
   </tr>
 </table>
@@ -18,7 +18,7 @@
 | - 👨‍💻 All of my projects are available at | https://github.com/Mahsa-Arabzadeh  |
 | - 📫 How to reach me:  | arabzadehmah@gmail.com  |
 
-<img align="right" style="width: 100px;height: 100px;bottom:60px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
