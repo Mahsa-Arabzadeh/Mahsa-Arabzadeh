@@ -1,8 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
-<h1 align="center">Hey, I'm Mahsa, delighted to meet you! 
-  <img  src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif">
-</h1>
-<h3 align="center">A Programmer Who Has Is Born!</h3>
+<h3 align="center">I'm a coding aficionado, always hungry for new challenges in the digital realm</h3>
+<img  src="https://user-images.githubusercontent.com/74038190/238201078-6f564d9a-467a-4bba-ad3a-8527c8ab79ae.gif">
 
 - 🌱 I’m currently learning **JavaScript**
 
