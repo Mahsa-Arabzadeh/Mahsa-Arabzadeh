@@ -2,7 +2,7 @@
 <h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#10040;</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
-
+<div style="display:flex;>
 <table style="width:800px;align:center;">
   <tr>
     <td>
@@ -12,9 +12,8 @@
     </td>
   </tr>
 </table>
-
   <img align="right" style="width: 100px;height: 100px;bottom:60px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
-
+</div>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
