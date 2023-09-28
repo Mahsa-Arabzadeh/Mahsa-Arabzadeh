@@ -3,7 +3,17 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
 
-<h4 aign="left"> -🌱 I’m currently learning <h4>  | **JavaScript** |
+<table>
+  <tr>
+    <th>
+       -🌱 I’m currently learning
+    </th>
+    <th>
+      **JavaScript**
+    </th>
+  </tr>
+</table>
+<h4 aign="left"> -🌱 I’m currently learning <h4>  |  |
 | ------------------------------------------------- | ----------------------------------------------- | 
 | - 👨‍💻 All of my projects are available at | https://github.com/Mahsa-Arabzadeh  |
 | - 📫 How to reach me:  | arabzadehmah@gmail.com  |
