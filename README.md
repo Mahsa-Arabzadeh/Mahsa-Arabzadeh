@@ -1,5 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
-<h3>I'm a coding aficionado, always hungry for new challenges in the digital realm</h3>
+<h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#10040;</h3>
+[![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
 
 
 - 🌱 I’m currently learning **JavaScript**
@@ -8,5 +9,4 @@
 
 - 📫 How to reach me: arabzadehmah@gmail.com <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in)
 <img align="right" alt="GIF" src="https://tenor.com/bXSez.gif" width="500" height="320" />
