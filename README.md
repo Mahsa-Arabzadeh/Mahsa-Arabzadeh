@@ -9,7 +9,7 @@
 <table style="width:800px;align:center;">
   <tr>
     <td>
-      -🌱 I’m currently learning  **JavaScript** <br>
+      -🌱 I’m currently learning  React <br>
       - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <br>
       - 📫 How to reach me: arabzadehmah@gmail.com
     </td>
