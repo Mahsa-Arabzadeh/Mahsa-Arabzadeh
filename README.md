@@ -27,7 +27,8 @@
             height="30"
             width="40"
     /></a>
-<a href="https://discord.gg/Mahsaxtz#2683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahsaxtz#2683" height="30" width="40" /></a>
+<a href="https://discord.gg/Mahsaxtz#2683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mahsaxtz#2683" height="30" width="40" /></a> 
+<a href="https://www.reddit.com/user/Pretty-Secretary8257/" target="blank"> <img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="mahsa-arabzadeh-964747287" height="30" width="40" /> </a>
 </p>
 
 
