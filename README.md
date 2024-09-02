@@ -10,9 +10,8 @@
   <tr>
     <td>
       -🌱 I’m currently learning  React <br>
-      - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahsa-Arabzadeh) <br>
+      - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <br>
       - 📫 How to reach me: arabzadehmah@gmail.com <br>
-      - 🔗 Portfolio website: [Mahsa-Arabzadeh](https://mahsa-arabzadeh.github.io/Portfolio-Website/)
     </td>
   </tr>
 </table>
