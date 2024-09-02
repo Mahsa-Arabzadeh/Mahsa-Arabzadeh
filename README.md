@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+![image](https://github.com/user-attachments/assets/742c571f-de7e-45e5-b4fb-443b65bdec19)<img src="images/svg/header_en.svg"></img>
 <h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#x2713;</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
@@ -10,8 +10,9 @@
   <tr>
     <td>
       -🌱 I’m currently learning  React <br>
-      - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <br>
-      - 📫 How to reach me: arabzadehmah@gmail.com
+      - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Mahsa-Arabzadeh) <br>
+      - 📫 How to reach me: arabzadehmah@gmail.com <br>
+      - 🔗 Portfolio website: [Mahsa-Arabzadeh](https://mahsa-arabzadeh.github.io/Portfolio-Website/)
     </td>
   </tr>
 </table>
