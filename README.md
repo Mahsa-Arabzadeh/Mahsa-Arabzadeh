@@ -2,9 +2,9 @@
 <h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#x2713;</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
+  <img src="https://yourgiflink.com/animated_fireworks.gif" alt="Birthday Bomb" width="300px">
 
   <img align="right" style="width: 300px;height: 300px;bottom:200px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"></img>
-  <img src="https://yourgiflink.com/animated_fireworks.gif" alt="Birthday Bomb" width="300px">
 
 
 
