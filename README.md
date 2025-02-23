@@ -11,7 +11,7 @@
   <tr>
     <td>
       -🌱 I’m currently learning  React <br>
-      - 👨‍💻 All of my projects are available at https://github.com/Mahsa-Arabzadeh <br>
+      - 👨‍💻 My personal website: https://mahsa-arabzadeh.github.io/Portfolio-Website/ <br>
       - 📫 How to reach me: arabzadehmah@gmail.com <br>
     </td>
   </tr>
