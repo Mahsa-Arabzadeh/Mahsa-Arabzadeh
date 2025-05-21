@@ -2,8 +2,8 @@
 <h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#x2713;</h3>
 
 
-      - 👨‍💻 My personal website: https://mahsa-arabzadeh.github.io/Portfolio-Website/ <br>
-      - 📫 How to reach me: arabzadehmah@gmail.com <br>
+- 👨‍💻 My personal website: https://mahsa-arabzadeh.github.io/Portfolio-Website/ <br>
+- 📫 How to reach me: arabzadehmah@gmail.com 
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
