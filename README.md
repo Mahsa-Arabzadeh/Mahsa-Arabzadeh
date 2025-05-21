@@ -1,17 +1,9 @@
 <img src="images/svg/header_en.svg"></img>
 <h3>I'm a coding aficionado, always hungry for new challenges in the digital realm! &#x2713;</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Mahsa-Arabzadeh&icon=5&color=6)](https://visitcount.itsvg.in) <br>
 
-<table style="width:800px;align:center;">
-  <tr>
-    <td>
-      -🌱 I’m currently learning  React <br>
       - 👨‍💻 My personal website: https://mahsa-arabzadeh.github.io/Portfolio-Website/ <br>
       - 📫 How to reach me: arabzadehmah@gmail.com <br>
-    </td>
-  </tr>
-</table>
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
